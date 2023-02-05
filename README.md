@@ -1,3 +1,7 @@
+
+
+
+<h1>Em Progresso.........</h1>
 ### Hi 👋, I'm Rodrigo
 
 
@@ -38,7 +42,7 @@ Here are some ideas to get you started:
 
 
 ### Articles and Contact
-<a href="https://www.linkedin.com/in/rodrigo-lima-qa-ctfl-at/" target="_blank"><img  height="30" width="80" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></div><a href="rodrigolima.das93@gmail.com.br" target="_blank"><img  height="30" width="80" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> </div></div><a href="https://gitlab.com/rodrigo.qa" target="_blank"><img  height="30" width="80" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a> 
+<a href="https://www.linkedin.com/in/rodrigo-lima-qa-ctfl-at/" target="_blank"><img  height="30" width="80" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></div><a href="rodrigolima.das93@gmail.com.br" target="_blank"><img  height="30" width="85" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> </div></div><a href="https://gitlab.com/rodrigo.qa" target="_blank"><img  height="30" width="80" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a> 
 </div>
 
 
