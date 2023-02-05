@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Rodrigo
 
 
-**RodrigoQA/RodrigoQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RodrigoQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
  📫 How to reach me **rodrigolima.ads93@gmail.com**
 <!--
