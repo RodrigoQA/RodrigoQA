@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <div>
 <a href="https://github.com/RodrigoQA/RodrigoQA">
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RodrigoQA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoQA&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats-sigma-five3.vercel.app/api/top-langs/?username=RodrigoQA&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
